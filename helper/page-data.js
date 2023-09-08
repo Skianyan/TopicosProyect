@@ -1,4 +1,4 @@
 export const info = {
-    title: 'Aprendiendo JS',
-    subtitle: 'Vanilla JS'
-  }
+	title: "Photo Gallery",
+	subtitle: "Utilizing Object Destructuring",
+};
